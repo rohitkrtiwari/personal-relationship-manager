@@ -1,2 +1,6 @@
-.env
-/__pycache__
+.~lock.contacts.ods#
+__pycache__/
+contacts.csv
+contacts.ods
+prm.db
+firebase_setup/
